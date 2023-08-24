@@ -1,0 +1,523 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Fatma Sarp",
+    "label": "Software Engineer - Sarp Limited",
+    "image": "",
+    "email": "sarpf305@gmail.com",
+    "phone": "07585133364",
+    "url": "",
+    "summary": "Accomplished Senior Business Intelligence Analyst and Software Developer with 9+ years of experience in IT projects. I had worked as a Senior Business Intelligence Analyst for almost 5 years at Yapı Kredi Bank which is 3th largest privately held bank in Turkey. I had worked on projects mainly related to risk management, data modeling, payment systems and automatic collection systems of YKB. I have building my own applications 4+ years and gained experience in payment systems.In this time I have acquired many key skills, including working to tight deadlines to deliver products on time, and using my initiative to create innovative software solutions.",
+    "location": {
+      "countryCode": "TR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fatmasarp",
+        "url": "https://www.linkedin.com/in/fatmasarp/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sarp Limited",
+      "position": "Software Engineer",
+      "startDate": "2018-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Having experience with Python and Node JS.\n- Used Django, Flask, AngularJS & ReactJS, ExpeessJs, Spring frameworks and PostgreSQL, Mongo, Redis databases during my projects. \n- Developing e-commerce and payment system web framework with web3.js on Etherium network. \n\nProvides all these services itemized below.\n● Software Development\n● Business Analysis\n● Data Analysis\n● UX / UI Design\n● Project Management\n● Reporting",
+      "url": "",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "name": "Yapı Kredi",
+      "position": "Senior Business Intelligence Analyst",
+      "startDate": "2014-03-31",
+      "endDate": "2018-09-30",
+      "highlights": [],
+      "summary": "- Participating in project groups regarding regulatory reports, risk management, collection management and legal follow-up management systems\n- Maintenance and optimization of notification letter system\n- Working closely with business stakeholders and developers on preparing functional specifications\n- Writing functional test plans and performing functional tests\n- Planning, monitoring and tracking testing progress throughout UAT\n- Making sure that all UAT are closed and signed-off on time\n- Performing go-live checks\n- Resolving ad-hoc issues raised by branches and operations\n- Creating Business Objects reports for business stakeholders\n- Preparing and executing database queries",
+      "url": "https://www.linkedin.com/company/yapikredi/"
+    },
+    {
+      "name": "Istanbul Technical University",
+      "position": "Student Assistant - Department of Mathematics Engineering",
+      "startDate": "2012-09-30",
+      "endDate": "2013-02-28",
+      "highlights": [],
+      "summary": "I had assisted Assoc.Dr Cevdet Cerit's in his researches and in his various works in Istanbul Technical University.",
+      "url": "https://www.linkedin.com/school/itu1773/",
+      "location": "Probability Theory"
+    },
+    {
+      "name": "VakıfBank",
+      "position": "Intern",
+      "startDate": "2011-07-31",
+      "endDate": "2011-09-30",
+      "highlights": [],
+      "summary": "I have gained experience in basic banking transactions, mortgage loans, individual retirement and finance during Internship process at Vakıfbank.",
+      "url": "https://www.linkedin.com/company/vakifbank/",
+      "location": "İstanbul, Türkiye"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Yapı Kredi",
+      "position": "Artist",
+      "startDate": "2014-12-31",
+      "endDate": "",
+      "summary": "Solo oil painting exhibition to donate 1000 Books for Village Schools. Exhibition Announcement:\n\nhttps://www.linkedin.com/feed/update/urn:li:activity:6416978682497298432/",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/yapikredi/"
+    },
+    {
+      "organization": "BBC Children in Need",
+      "position": "Artist",
+      "startDate": "2019-12-31",
+      "endDate": "",
+      "summary": "Orginize BBC Children in Need face painting days",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/bbc-children-in-need/"
+    },
+    {
+      "organization": "WWF-UK",
+      "position": "Supporter",
+      "startDate": "2019-12-31",
+      "endDate": "",
+      "summary": null,
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/wwf-uk/"
+    },
+    {
+      "organization": "Adim Adim",
+      "position": "Volunteer Runner",
+      "startDate": "2019-12-31",
+      "endDate": "",
+      "summary": null,
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/adim-adim/"
+    },
+    {
+      "organization": "Istanbul Technical University",
+      "position": "Volunteer Teacher",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "summary": "Volunteer lectures to students preparing for university exam",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/itu1773/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oxford",
+      "area": "Oxford FinTech Programme",
+      "studyType": "",
+      "startDate": "2022-12-31",
+      "endDate": "2022-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "İstanbul Teknik Üniversitesi",
+      "area": "Mathematics Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2009-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Yildiz Technical University",
+      "area": "Pedagogical Formation",
+      "studyType": "Master's degree",
+      "startDate": "2017-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Malvern House School London",
+      "area": "",
+      "studyType": "English Language School",
+      "startDate": "2010-12-31",
+      "endDate": "2010-12-31",
+      "score": "Upper Intermediate",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "International Postgraduate Scholarships",
+      "date": "2018-09-30",
+      "awarder": "Ministry of National Education",
+      "summary": "Rank success: 1. i​n ​32,000 people"
+    },
+    {
+      "title": "Achievement Scholarship",
+      "date": "2010-09-30",
+      "awarder": "Istanbul Technical University",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Essential Training for Developers",
+      "issuer": "LinkedIn",
+      "startDate": "2021-06-30"
+    },
+    {
+      "name": "Python Data Analysis",
+      "issuer": "LinkedIn",
+      "startDate": "2021-05-31"
+    },
+    {
+      "name": "PSPO(Professional Scrum Product Owner)",
+      "issuer": "Scrum.org",
+      "startDate": "2018-04-30"
+    },
+    {
+      "name": "IIBA CBAP International Business Analysis",
+      "issuer": "BA-Works Business Analysis Services",
+      "startDate": "2018-03-31"
+    },
+    {
+      "name": "PSM (Professional Scrum Master)",
+      "issuer": "Scrum.org",
+      "startDate": "2017-08-31"
+    },
+    {
+      "name": "Agile Methodology and Scrum",
+      "issuer": "Yapı Kredi",
+      "startDate": "2017-01-31"
+    },
+    {
+      "name": "SDLC (Software Development Life Cycle)",
+      "issuer": "Istanbul Technical University",
+      "startDate": "2016-08-31"
+    },
+    {
+      "name": "IIBA International Mobile UX Design & Usability",
+      "issuer": "BA-Works Business Analysis Services",
+      "startDate": "2016-05-31"
+    },
+    {
+      "name": "Oracle Database: SQL Tuning",
+      "issuer": "Bilginç IT Academy",
+      "startDate": "2015-04-30"
+    },
+    {
+      "name": "IIBA CBAP International Business Analysis",
+      "issuer": "BA-Works Business Analysis Services",
+      "startDate": "2014-11-30"
+    },
+    {
+      "name": "Data Modeling with PowerDesigner",
+      "issuer": "Bilginç IT Academy",
+      "startDate": "2014-09-30"
+    },
+    {
+      "name": "Object-Oriented Programming (C#)",
+      "issuer": null,
+      "startDate": "2013-06-30"
+    },
+    {
+      "name": "Database (SQL)",
+      "issuer": null,
+      "startDate": "2013-02-28"
+    },
+    {
+      "name": "Web Design",
+      "issuer": null,
+      "startDate": "2013-02-28"
+    },
+    {
+      "name": "Ms Office",
+      "issuer": null,
+      "startDate": "2011-04-30"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS Step Functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS Lambda",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "D3.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Toad",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mathematical Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sybase IQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "web3.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Mining",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Acceptance Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PL/SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SoliditySolidity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SOAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile & Waterfall Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Functional Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UC4",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JIRA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sage 50",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Confluence",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "tr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "German"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Turkish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Ali Sait Teke",
+      "reference": "She is goal oriented, a great parner, time manager, mathematics engineer and a reliable."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
